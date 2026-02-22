@@ -1,0 +1,177 @@
+export const corretores = {
+    alessandro: {
+    nome: "Alessandro Moreira Marinho",
+    cargo: "Corretor Imobiliário",
+    tipoRegistro: "CRECI",
+    registro: "6955-F",
+    email: "nif.gestora@gmail.com",
+    emailLink: "https://www.gmail.com/alessandro",
+    whatsapp: "27995809252",
+    foto: "/imagens/alessandro.png",
+  },
+
+    aline: {
+    nome: "Aline Carriel",
+    cargo: "Corretora Imobiliária",
+    tipoRegistro: "CRECI",
+    registro: "15004-J",
+    email: "a.carriel.oliveira@gmail.com",
+    emailLink: "https://www.gmail.com/aline",
+    whatsapp: "11973788037",
+    foto: "/imagens/aline.png",
+  },
+
+    anderson: {
+    nome: "Anderson Alves Pinto",
+    cargo: "Coordenador de Vendas",
+    tipoRegistro: "CRECI",
+    registro: "6393-F",
+    email: "alvesimoveises@gmail.com",
+    emailLink: "https://www.gmail.com/anderson",
+    whatsapp: "27996012873",
+    foto: "/imagens/anderson.png",
+  },
+
+    claudia: {
+    nome: "Cláudia Vital",
+    cargo: "Corretora Imobiliária",
+    tipoRegistro: "CRECI",
+    registro: "12702-F",
+    email: "rsc.claudiagomes@gmail.com",
+    emailLink: "https://www.gmail.com/claudia",
+    whatsapp: "27999321041",
+    foto: "/imagens/claudia.png",
+  },
+
+    gilliard: {
+    nome: "Gilliard Passos",
+    cargo: "Corretor Imobiliário",
+    tipoRegistro: "CRECI",
+    registro: "12340-F",
+    email: "gilliardoliveira@hotmail.com",
+    emailLink: "https://www.hotmail.com/gilliard",
+    whatsapp: "27997649639",
+    foto: "/imagens/gilliard.png",
+  },
+
+   graziely: {
+    nome: "Graziely Queiroz",
+    cargo: "Corretora Imobiliária",
+    tipoRegistro: "CRECI",
+    registro: "13975-F",
+    email: "queirozzgraziely@gmail.com",
+    emailLink: "https://www.gmail.com/graziely",
+    whatsapp: "27999561059",
+    foto: "/imagens/graziely.png",
+  },
+
+    inah: {
+    nome: "Inah Saraiva",
+    cargo: "Corretora Imobiliária",
+    tipoRegistro: "CRECI",
+    registro: "7223-F",
+    email: "inahcorretora01@gmail.com",
+    emailLink: "https://www.gmail.com/inah",
+    whatsapp: "27996308801",
+    foto: "/imagens/inah.png",
+  },
+
+    jonathas: {
+    nome: "Jonathas Albuquerque",
+    cargo: "Corretor Imobiliário",
+    tipoRegistro: "CRECI",
+    registro: "9436-F",
+    email: "joas_santana@hotmail.com",
+    emailLink: "https://www.hotmail.com/jonathas",
+    whatsapp: "27996149341",
+    foto: "/imagens/jonathas.png",
+  },
+
+    jose: {
+    nome: "José Geraldo C. Magalhães",
+    cargo: "Corretor Imobiliário",
+    tipoRegistro: "CRECI",
+    registro: "8225-F",
+    email: "jgcamposimoveis@gmail.com",
+    emailLink: "https://www.gmail.com/jose",
+    whatsapp: "27997750546",
+    foto: "/imagens/jose.png",
+  },
+
+    lia: {
+    nome: "Lia Silva",
+    cargo: "Corretora Imobiliária",
+    tipoRegistro: "CRECI",
+    registro: "4980-F",
+    email: "liliaci07@hotmail.com",
+    emailLink: "https://www.hotmail.com/lia",
+    whatsapp: "27999660422",
+    foto: "/imagens/lia.png",
+  },
+
+    luena: {
+    nome: "Luena Lucena",
+    cargo: "Corretora Imobiliária",
+    tipoRegistro: "CRECI",
+    registro: "15004-J",
+    email: "luenaglucena@gmail.com",
+    emailLink: "https://www.gmail.com/luena",
+    whatsapp: "27999544244",
+    foto: "/imagens/luena.png",
+  },
+
+    marcia: {
+    nome: "Márcia Gonçalves Hilário",
+    cargo: "Corretora Imobiliária",
+    tipoRegistro: "CRECI",
+    registro: "8597-F",
+    email: "marciahilario.corretora@gmail.com",
+    emailLink: "https://www.gmail.com/marcia",
+    whatsapp: "27998397745",
+    foto: "/imagens/marcia.png",
+  },
+
+    paulo: {
+    nome: "Paulo Henrique Marques",
+    cargo: "Supervisor ",
+    tipoRegistro: "CPF",
+    registro: "860.722.507-34",
+    email: "paulo.marques@ybyplan.com",
+    emailLink: "https://login-new.locaweb.com.br/login/paulo",
+    whatsapp: "27996112412",
+    foto: "/imagens/paulo.png",
+  },
+
+    pedro: {
+    nome: "Pedro Henrique Nimrichter Marques",
+    cargo: "Corretor Imobiliário",
+    tipoRegistro: "CRECI",
+    registro: "13187-F",
+    email: "pedro.marques918@gmail.com",
+    emailLink: "https://www.gmail.com/pedro",
+    whatsapp: "27999712035",
+    foto: "/imagens/pedro.png",
+  },
+
+    sandro: {
+    nome: "Sandro Azevedo Almeida",
+    cargo: "TI/Assistente Administrativo",
+    tipoRegistro: "CPF",
+    registro: "078.807.507-11",
+    email: "sandro.azevedo@ybyplan.com",
+    emailLink: "https://login-new.locaweb.com.br/login/sandro",
+    whatsapp: "27996602259",
+    foto: "/imagens/sandro.png",
+  },
+
+   wylson: {
+    nome: "Wylson Zon Filho",
+    cargo: "Novos Negócios",
+    tipoRegistro: "CRECI",
+    registro: "3244-F",
+    email: "wylson.zon@ybyplan.com",
+    emailLink: "https://login-new.locaweb.com.br/login/wylson",
+    whatsapp: "27999026940",
+    foto: "/imagens/wylson.png",
+  }
+};
